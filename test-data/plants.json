@@ -1,0 +1,23 @@
+{
+    "plantA": {
+        "id": "696eb7a86b37e1e5e232a7b0",
+        "name": "Hosta (Funkia)",
+        "latinName": "Hosta",
+        "species": "herb",
+        "lifespan": "perennial"
+    },
+    "plantB": {
+        "id": "696eb7a86b37e1e5e232a7b4",
+        "name": "Piwonia chińska",
+        "latinName": "Paeonia lactiflora",
+        "species": "herb",
+        "lifespan": "perennial"
+    },
+    "plantC": {
+        "id": "696eb7a86b37e1e5e232a7b9",
+        "name": "Melisa lekarska",
+        "latinName": "Melissa officinalis",
+        "species": "herb",
+        "lifespan": "perennial"
+    }
+}

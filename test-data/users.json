@@ -1,0 +1,10 @@
+{
+    "testUser1": {
+        "email": "testuser1@gardener.test",
+        "userId": "69b580d52df71b2f64c4f0c1"
+    },
+    "testUser2": {
+        "email": "testuser2@gardener.test",
+        "userId": "69b580d52df71b2f64c4f0c2"
+    }
+}

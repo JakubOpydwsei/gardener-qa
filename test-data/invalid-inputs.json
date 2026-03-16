@@ -1,0 +1,8 @@
+{
+    "invalidEmail": "not-an-email",
+    "shortPassword": "123",
+    "longPassword": "Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!",
+    "spacesOnlyEmail": "   ",
+    "invalidPlantId": "invalid-id",
+    "nonExistingPlantId": "000000000000000000000000"
+}
