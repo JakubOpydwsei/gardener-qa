@@ -1,5 +1,7 @@
 {
     "invalidEmail": "not-an-email",
+    "notExistingEmail": "ghost_user_99@test.pl",
+    "invalidPassword": "WrongPass999!",
     "shortPassword": "123",
     "longPassword": "Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!Aa1!",
     "spacesOnlyEmail": "   ",
