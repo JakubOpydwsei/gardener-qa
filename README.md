@@ -8,6 +8,14 @@ The repository demonstrates a structured QA workflow similar to those used in re
 
 ---
 
+## LIVE Test Report
+The latest automated test execution results are available online:
+[**View Interactive Playwright Report**](https://Jakub-Opyd.github.io/gardener-qa/)
+
+*Note: This report is generated from the local test environment to showcase automation capabilities and defect detection (including identified 500/201 errors).*
+
+---
+
 ## Application Under Test
 
 | Layer | Technology |
